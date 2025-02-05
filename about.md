@@ -7,10 +7,10 @@ comments: false
 
 # `Abdul Wahab Khan` &nbsp; *a.k.a* &nbsp; `Babullay`
 
-👨‍💻 **Technical Lead** at [HIRG](https://www.hirg.online)  
+👨‍💻 **Hardware Penetration Tester** at [HIRG](https://www.hirg.online)  
 🔒 **Hardware and Embedded Systems Pentester**  
 🛠️ **Reverse Engineering Enthusiast**  
-📍 Passionate about **Low-Level Development & Security**  
+📍 Passionate about **Low-Level Development + Blockchain Web3.0 & Security**  
 
 ---
 
