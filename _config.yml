@@ -1,5 +1,5 @@
 # Site settings
-title: Babullay # site title
+title: Khizar ALi Shah # site title
 description: >- # site description
   I use this site to showcase my portfolio and Blogs/Writetups
 lang: en-US # default lang
@@ -10,18 +10,18 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Babullay # author name
+  name: Khizar Ali Shah # author name
   bio: >- # tell to the world
     I use this site to showcase my portfolio and Blogs/Writetups
-  username: Babullay # general username
-  github: wahabkhanwk # github username
+  username: eros # general username
+  github: eros938 # github username
   twitter: NONO # twitter username
   facebook: facebook_username # facebook username
-  email: wahabkhan2006@proton.me # email adress
+  email: khizaralishah938@gmail.com # email adress
   avatar: assets/img/ogp.png # change with your own avatar
 
 # URL settings
-url: "https://Babullay.github.io" #
+url: "https://eros.github.io" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
